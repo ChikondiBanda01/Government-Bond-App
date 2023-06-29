@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_faceValue"
+            android:icon="@drawable/ic_baseline_facevalue_24"
+            android:title="Face Value" />
+        <item
+            android:id="@+id/nav_coupon"
+            android:icon="@drawable/ic_baseline_coupon_24"
+            android:title="Coupon Amount" />
+        <item
+            android:id="@+id/nav_cost"
+            android:icon="@drawable/ic_baseline_monetization_on_24"
+            android:title="Bond Cost" />
+        <item
+            android:id="@+id/nav_price"
+            android:icon="@drawable/ic_baseline_money_24"
+            android:title="Bond Price" />
+    </group>
+
+    <item android:title="Tools">
+        <menu>
+            <item
+                android:id="@+id/nav_manage"
+                android:icon="@drawable/ic_baseline_account_box_24"
+                android:title="Manage Users"/>
+        </menu>
+    </item>
+
+    <item android:title="Logout">
+        <menu>
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_baseline_login_24"
+                android:title="Log out" />
+
+        </menu>
+    </item>
+</menu>

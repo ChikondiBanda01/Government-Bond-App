@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/arimo_bold</item>
+        <item>@font/concert_one</item>
+        <item>@font/goblin_one</item>
+        <item>@font/krona_one</item>
+        <item>@font/lemon</item>
+        <item>@font/varela_round</item>
+        <item>@font/work_sans_medium</item>
+    </array>
+</resources>

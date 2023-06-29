@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/drawable-v24/round_black_blue1000.xml" value="0.1275" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/drawable/ic_baseline_account_box_24.xml" value="0.1" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/drawable/ic_baseline_money_24.xml" value="0.1025" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/layout-w1240dp/fragment_Cost.xml" value="0.16394557823129252" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/layout-w1240dp/fragment_coupon.xml" value="0.16394557823129252" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/layout-w936dp/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/layout-w936dp/nav_header_admin.xml" value="0.1" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/layout-w936dp/user_item.xml" value="0.1" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/layout/activity_log_in.xml" value="0.12552083333333333" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/layout/activity_login.xml" value="0.12552083333333333" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/layout/activity_main.xml" value="0.14285714285714285" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/layout/activity_main_page.xml" value="0.1" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/layout/app_bar_main_page.xml" value="0.14285714285714285" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/layout/content_main_page.xml" value="0.14285714285714285" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/layout/fragment_cost.xml" value="0.2857142857142857" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/layout/fragment_coupon.xml" value="0.2857142857142857" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/layout/fragment_face_value.xml" value="0.2857142857142857" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/layout/fragment_gallery.xml" value="0.12552083333333333" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/layout/fragment_home.xml" value="0.2857142857142857" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/layout/fragment_manage_users.xml" value="0.1" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/layout/fragment_price.xml" value="0.2857142857142857" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/layout/fragment_slideshow.xml" value="0.12552083333333333" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/layout/fragment_user_list.xml" value="0.1" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/layout/nav_header_main_page.xml" value="0.2857142857142857" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/layout/user_item.xml" value="0.2857142857142857" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/layout/userlist.xml" value="0.12552083333333333" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/menu/activity_admin_drawer.xml" value="0.12552083333333333" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/menu/activity_main_drawer.xml" value="0.12552083333333333" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/menu/main_page.xml" value="0.12552083333333333" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_bonds_round.xml" value="0.1" />
+        <entry key="..\:/Users/chikondi/AndroidStudioProjects/GovBondApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
